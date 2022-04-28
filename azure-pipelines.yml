@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-name: 'BroxelAgentPools'
+  name: 'BroxelAgentPools'
 
 steps:
 - task: CopyFiles@2
