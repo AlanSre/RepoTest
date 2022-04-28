@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'InnovacionXamarinWindowsAgents'
+  vmImage: 'BroxelAgentPools'
 
 steps:
 - task: CopyFiles@2
